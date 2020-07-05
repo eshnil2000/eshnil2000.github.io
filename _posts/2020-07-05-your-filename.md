@@ -1,6 +1,9 @@
 ---
+layout: post
+title: new post!
 published: true
 ---
+
 ## New post for you
 [My site](https://eshnil2000.chainapp.live)
 
