@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+# Remote theme
+remote_theme: mmistakes/minimal-mistakes
+
 # Name of your site (displayed in the header)
 name: Nilesh
 
