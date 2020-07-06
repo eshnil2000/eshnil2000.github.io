@@ -4,6 +4,10 @@ title: new post!
 published: true
 ---
 
+---
+thumbnail: /images/VDLLogo.png
+---
+
 ## New post for you
 [My site](https://eshnil2000.chainapp.live)
 
