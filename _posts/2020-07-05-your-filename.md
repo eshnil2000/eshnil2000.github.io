@@ -6,6 +6,9 @@ published: true
 
 ---
 thumbnail: /images/VDLLogo.png
+layout: post
+title: You're up and running!
+
 ---
 
 ## New post for you
