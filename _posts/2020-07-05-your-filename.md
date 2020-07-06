@@ -2,14 +2,9 @@
 layout: post
 title: new post!
 published: true
----
-
----
 thumbnail: /images/VDLLogo.png
-layout: post
-title: You're up and running!
-
 ---
+
 
 ## New post for you
 [My site](https://eshnil2000.chainapp.live)
